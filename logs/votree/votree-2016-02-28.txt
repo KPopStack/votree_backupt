@@ -1,0 +1,1543 @@
+? DEBUG 17:02:46.873 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:02:47.081 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:02:47.448 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:02:47.591 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:14.815 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:15.018 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:15.384 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:15.521 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:35.333 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:35.452 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:35.693 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:03:35.793 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:04:41.497 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:04:41.710 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:04:42.069 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:04:42.214 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:02.205 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:02.324 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:02.569 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:02.666 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:18.995 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:19.194 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:19.544 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:19.680 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:38.890 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:39.037 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:39.271 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:05:39.377 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:26.380 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:26.592 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:26.958 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:27.116 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:30.872 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:09:30.874 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:09:34.619 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:09:34.621 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:09:46.295 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:46.418 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:46.674 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:09:46.777 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 17:10:32.780 [http-bio-8080-exec-4] org.apache.commons.dbcp2.PoolableConnectionFactory[validateObject:346] - Failed to validate a poolable connection.
+java.sql.SQLException: isValid() returned false
+	at org.apache.commons.dbcp2.PoolableConnection.validate(PoolableConnection.java:284) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.validateConnection(PoolableConnectionFactory.java:357) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.validateObject(PoolableConnectionFactory.java:342) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:492) [commons-pool2-2.4.2.jar:2.4.2]
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363) [commons-pool2-2.4.2.jar:2.4.2]
+	at org.apache.commons.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:134) [commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533) [commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111) [spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77) [spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:315) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:75) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:61) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:303) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:154) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:102) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:82) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:120) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:113) [mybatis-3.3.0.jar:3.3.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:386) [mybatis-spring-1.2.3.jar:1.2.3]
+	at com.sun.proxy.$Proxy6.selectList(Unknown Source) [na:na]
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:205) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:122) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:64) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53) [mybatis-3.3.0.jar:3.3.0]
+	at com.sun.proxy.$Proxy29.selectVotreesOnRunningState(Unknown Source) [na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at com.toast.votree.sharding.handler.DbShardingMapperHandler.invoke(DbShardingMapperHandler.java:24) [DbShardingMapperHandler.class:na]
+	at org.springframework.cglib.proxy.Proxy$ProxyImpl$$EnhancerByCGLIB$$643ce390.selectVotreesOnRunningState(<generated>) [spring-core-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at com.toast.votree.service.VotreeServiceImpl.showVotrees(VotreeServiceImpl.java:145) [VotreeServiceImpl.class:na]
+	at com.toast.votree.controller.api.HomeRestController.showVotreeList(HomeRestController.java:27) [HomeRestController.class:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:969) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:860) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620) [servlet-api.jar:na]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:845) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat7-websocket.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122) [catalina.jar:7.0.54]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [catalina.jar:7.0.54]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116) [catalina.jar:7.0.54]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [catalina.jar:7.0.54]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040) [tomcat-coyote.jar:7.0.54]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607) [tomcat-coyote.jar:7.0.54]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314) [tomcat-coyote.jar:7.0.54]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_74]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-coyote.jar:7.0.54]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_74]
+? DEBUG 17:12:55.176 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:12:55.180 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? WARN  17:12:59.967 [http-bio-8080-exec-9] org.springframework.jdbc.support.SQLErrorCodesFactory[getErrorCodes:227] - Error while extracting database product name - falling back to empty error codes
+org.springframework.jdbc.support.MetaDataAccessException: Could not get Connection for extracting meta data; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:302) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:329) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.SQLErrorCodesFactory.getErrorCodes(SQLErrorCodesFactory.java:214) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.setDataSource(SQLErrorCodeSQLExceptionTranslator.java:134) [spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.<init>(SQLErrorCodeSQLExceptionTranslator.java:97) [spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.initExceptionTranslator(MyBatisExceptionTranslator.java:86) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:399) [mybatis-spring-1.2.3.jar:1.2.3]
+	at com.sun.proxy.$Proxy6.selectList(Unknown Source) [na:na]
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:205) [mybatis-spring-1.2.3.jar:1.2.3]
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:122) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:64) [mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53) [mybatis-3.3.0.jar:3.3.0]
+	at com.sun.proxy.$Proxy29.selectVotreesOnRunningState(Unknown Source) [na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at com.toast.votree.sharding.handler.DbShardingMapperHandler.invoke(DbShardingMapperHandler.java:24) [DbShardingMapperHandler.class:na]
+	at org.springframework.cglib.proxy.Proxy$ProxyImpl$$EnhancerByCGLIB$$643ce390.selectVotreesOnRunningState(<generated>) [spring-core-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at com.toast.votree.service.VotreeServiceImpl.showVotrees(VotreeServiceImpl.java:145) [VotreeServiceImpl.class:na]
+	at com.toast.votree.controller.api.HomeRestController.showVotreeList(HomeRestController.java:27) [HomeRestController.class:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:969) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:860) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620) [servlet-api.jar:na]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:845) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat7-websocket.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122) [catalina.jar:7.0.54]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [catalina.jar:7.0.54]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116) [catalina.jar:7.0.54]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [catalina.jar:7.0.54]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040) [tomcat-coyote.jar:7.0.54]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607) [tomcat-coyote.jar:7.0.54]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316) [tomcat-coyote.jar:7.0.54]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_74]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-coyote.jar:7.0.54]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_74]
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:289) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	... 65 common frames omitted
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_74]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_74]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:356) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2504) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2541) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2323) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:832) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46) ~[mysql-connector-java-5.1.31.jar:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_74]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_74]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:417) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344) ~[mysql-connector-java-5.1.31.jar:na]
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868) ~[commons-pool2-2.4.2.jar:2.4.2]
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435) ~[commons-pool2-2.4.2.jar:2.4.2]
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363) ~[commons-pool2-2.4.2.jar:2.4.2]
+	at org.apache.commons.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:134) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	... 66 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.8.0_74]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[na:1.8.0_74]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[na:1.8.0_74]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[na:1.8.0_74]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.8.0_74]
+	at java.net.Socket.connect(Socket.java:589) ~[na:1.8.0_74]
+	at java.net.Socket.connect(Socket.java:538) ~[na:1.8.0_74]
+	at java.net.Socket.<init>(Socket.java:434) ~[na:1.8.0_74]
+	at java.net.Socket.<init>(Socket.java:244) ~[na:1.8.0_74]
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:306) ~[mysql-connector-java-5.1.31.jar:na]
+	... 87 common frames omitted
+? ERROR 17:12:59.979 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : org.springframework.cglib.proxy.UndeclaredThrowableException: java.lang.reflect.InvocationTargetException-->null
+? ERROR 17:13:00.098 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 17:45:26.267 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:45:26.269 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:47:09.178 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:47:09.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:47:10.361 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:47:10.362 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:47:15.109 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:47:15.111 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? ERROR 17:47:22.153 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? ERROR 17:47:34.881 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? ERROR 17:49:35.065 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? ERROR 17:49:46.482 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? DEBUG 17:51:01.340 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:51:01.343 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 17:51:05.327 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:51:05.329 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? ERROR 17:51:11.168 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? ERROR 17:51:32.450 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : java.lang.NullPointerException
+? ERROR 17:51:32.452 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 17:51:35.829 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : java.lang.NullPointerException
+? ERROR 17:51:35.833 [ajp-bio-8001-exec-15] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 17:51:37.780 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:51:37.782 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? ERROR 17:51:39.273 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : java.lang.NullPointerException
+? ERROR 17:51:39.277 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 17:51:42.802 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 17:51:42.804 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? ERROR 17:51:57.972 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[createVotree:262] - null
+? DEBUG 18:23:30.681 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:23:30.685 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:26:28.609 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:26:28.610 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:26:34.189 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:26:34.191 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:27:34.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:27:34.189 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:28:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:28:34.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:29:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:29:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:30:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:30:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:31:34.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:31:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:32:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:32:34.184 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:33:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:33:34.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:34:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:34:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:35:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:35:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:36:34.180 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:36:34.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:37:34.183 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:37:34.184 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:38:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:38:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:39:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:39:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:40:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:40:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:41:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:41:34.188 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:42:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:42:34.190 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:43:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:43:34.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:44:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:44:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:45:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:45:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:46:34.180 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:46:34.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:47:34.185 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:47:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:48:34.181 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:48:34.197 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:49:34.185 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:49:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:50:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:50:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:51:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:51:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:52:34.181 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:52:34.183 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:53:34.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:53:34.190 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:54:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:54:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:55:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:55:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:56:34.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:56:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:57:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:57:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:58:34.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:58:34.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 18:59:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 18:59:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:00:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:00:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:01:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:01:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:02:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:02:34.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:03:34.180 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:03:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:04:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:04:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:05:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:05:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:06:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:06:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:07:34.184 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:07:34.185 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:08:34.181 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:08:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:09:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:09:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:10:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:10:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:11:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:11:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:12:34.181 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:12:34.183 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:13:34.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:13:34.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:14:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:14:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:15:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:15:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:16:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:16:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:17:34.181 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:17:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:18:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:18:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:19:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:19:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:20:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:20:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:21:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:21:34.187 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:22:34.180 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:22:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:23:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:23:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:24:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:24:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:25:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:25:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:26:34.178 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:26:34.180 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:27:34.184 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:27:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:28:34.181 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:28:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:29:34.191 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:29:34.193 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:30:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:30:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:31:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:31:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:32:34.178 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:32:34.180 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:33:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:33:34.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:34:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:34:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:35:34.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:35:34.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:36:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:36:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:37:34.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:37:34.182 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:38:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:38:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:39:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:39:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:40:34.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:40:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:41:34.181 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:41:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:42:34.186 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:42:34.188 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:43:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:43:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:44:34.179 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:44:34.180 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:45:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:45:34.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:46:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:46:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:47:34.187 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:47:34.189 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:48:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:48:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:49:34.180 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:49:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:50:34.180 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:50:34.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:51:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:51:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:52:34.183 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:52:34.184 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:53:34.179 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:53:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:54:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:54:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:55:34.181 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+? ERROR 19:55:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 19:56:35.389 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:35.604 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:36.024 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:36.160 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? ERROR 19:56:39.221 [ajp-bio-8001-exec-1] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:56:39.221 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:56:52.083 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 19:56:56.010 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:56.159 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:56.424 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 19:56:56.522 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? ERROR 19:57:03.493 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:57:13.546 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:57:13.946 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:57:17.127 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:57:34.176 [ajp-bio-8001-exec-9] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:27.173 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:30.520 [ajp-bio-8001-exec-9] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:34.165 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:34.170 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:45.012 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:47.125 [ajp-bio-8001-exec-9] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:50.220 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:51.689 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:53.135 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:56.106 [ajp-bio-8001-exec-1] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:58:59.194 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 19:59:34.175 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:30.663 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:31.637 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:34.173 [ajp-bio-8001-exec-9] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:34.814 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:38.516 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:41.897 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:45.265 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:48.645 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:51.998 [ajp-bio-8001-exec-13] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:55.332 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:00:58.701 [ajp-bio-8001-exec-12] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:02.040 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:05.419 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:08.792 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:12.142 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:15.492 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:19.488 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:22.874 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:26.257 [ajp-bio-8001-exec-12] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:29.627 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:33.007 [ajp-bio-8001-exec-1] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:34.170 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:36.382 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:39.765 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:43.140 [ajp-bio-8001-exec-12] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:46.507 [ajp-bio-8001-exec-13] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:49.873 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:53.261 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:56.627 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:01:59.993 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:02:03.394 [ajp-bio-8001-exec-13] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 20:02:06.758 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 20:02:21.119 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:21.351 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:21.777 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:21.915 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:41.140 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:41.241 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:41.494 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 20:02:41.595 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:02.924 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:03.100 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:03.502 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:03.650 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:49.760 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:49.954 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:50.402 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:50.564 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:03:54.246 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ DEBUG 20:03:54.246 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:03:54.251 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ ERROR 20:03:54.251 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:04:09.831 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:04:09.954 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:04:10.205 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:04:10.305 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 20:04:34.204 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:04:34.208 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:05:34.204 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:05:34.207 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:06:34.192 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:06:34.194 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:07:34.190 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:07:34.193 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:08:34.185 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:08:34.187 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:09:34.197 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:09:34.200 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:10:34.205 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:10:34.207 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:11:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:11:34.187 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:12:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:12:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:13:34.187 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:13:34.192 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:14:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:14:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:15:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:15:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:16:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:16:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:17:34.190 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:17:34.193 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:18:34.189 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:18:34.193 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:19:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:19:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:20:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:20:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:21:34.189 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:21:34.192 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:22:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:22:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:23:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:23:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:24:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:24:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:25:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:25:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:26:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:26:34.187 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:27:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:27:34.188 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:28:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:28:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:29:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:29:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:30:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:30:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:31:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:31:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:32:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:32:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:33:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:33:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:34:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:34:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:35:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:35:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:36:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:36:34.188 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:37:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:37:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:38:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:38:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:39:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:39:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:40:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:40:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:41:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:41:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:42:34.186 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:42:34.188 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:43:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:43:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:44:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:44:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:45:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:45:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:46:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:46:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:47:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:47:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:48:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:48:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:49:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:49:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:50:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:50:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:51:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:51:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:52:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:52:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:53:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:53:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:54:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:54:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:55:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:55:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:56:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:56:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:57:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:57:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:58:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:58:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 20:59:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 20:59:34.189 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:00:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:00:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:01:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:01:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:02:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:02:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:03:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:03:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:04:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:04:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:05:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:05:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:06:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:06:34.188 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:07:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:07:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:08:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:08:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:09:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:09:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:10:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:10:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:11:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:11:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:12:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:12:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:13:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:13:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:14:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:14:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:15:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:15:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:16:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:16:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:17:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:17:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:18:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:18:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:19:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:19:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:20:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:20:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:21:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:21:34.187 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:22:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:22:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:23:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:23:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:24:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:24:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:25:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:25:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:26:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:26:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:27:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:27:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:28:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:28:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:29:34.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:29:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:30:34.179 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:30:34.180 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:31:34.178 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:31:34.179 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:32:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:32:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:33:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:33:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:34:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:34:34.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:35:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:35:34.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:36:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:36:34.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:37:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:37:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:38:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:38:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:39:34.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:39:34.186 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:40:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:40:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:41:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:41:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:42:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:42:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:43:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:43:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:44:34.179 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:44:34.181 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:45:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:45:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:46:34.179 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:46:34.180 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:47:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:47:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:48:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:48:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:49:34.178 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:49:34.179 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:50:34.178 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:50:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:51:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:51:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:52:34.178 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:52:34.179 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:53:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:53:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:54:34.180 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:54:34.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:55:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:55:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:56:34.179 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:56:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:57:34.179 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:57:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:58:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:58:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 21:59:34.196 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 21:59:34.197 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:00:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:00:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:01:34.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:01:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:02:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:02:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:03:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:03:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:04:34.180 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:04:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:05:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:05:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:06:34.178 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:06:34.180 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:07:34.179 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:07:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:08:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:08:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:09:34.180 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:09:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:10:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:10:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:11:34.179 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:11:34.180 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:12:34.178 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:12:34.179 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:13:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:13:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:14:34.177 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:14:34.179 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:15:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:15:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:16:34.180 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:16:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+▶ DEBUG 22:17:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$1:202] - null
+▶ ERROR 22:17:34.183 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$2:213] - null
+? DEBUG 22:17:49.053 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:17:49.255 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:17:49.710 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:17:49.853 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:17:56.288 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:17:56.292 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:18:09.859 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:18:09.979 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:18:10.238 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:18:10.338 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:18:17.685 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:18:17.691 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:18:33.847 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:18:33.854 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:18:34.192 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:18:34.196 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:19:09.558 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:19:09.560 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:19:34.196 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:19:34.197 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:19:58.966 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:19:58.971 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:20:00.783 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:20:00.785 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:20:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:20:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:21:11.094 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:11.307 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:11.738 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:11.886 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:15.589 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:21:15.591 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:21:31.505 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:31.630 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:31.875 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:31.965 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:21:34.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+? ERROR 22:21:34.192 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+? DEBUG 22:22:36.827 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:37.021 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:37.458 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:37.602 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:57.593 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:57.719 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:57.963 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 22:22:58.065 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:25:48.891 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:25:49.089 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:25:49.561 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:25:49.713 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:25:53.521 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:25:53.527 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:25:54.277 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:25:54.281 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:26:09.720 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:26:09.845 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:26:10.087 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:26:10.177 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 22:26:34.209 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:26:34.211 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:27:34.204 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:27:34.205 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:28:34.202 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:28:34.204 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:29:29.760 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:29:29.763 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:29:34.192 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:29:34.194 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:29:44.590 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:29:44.591 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ ERROR 22:29:48.837 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[jsonIsNullException:46] - JSON IS NULL
+▶ DEBUG 22:29:55.770 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:29:55.773 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:05.376 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:05.378 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ ERROR 22:30:06.931 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[jsonIsNullException:46] - JSON IS NULL
+▶ DEBUG 22:30:15.168 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:15.171 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:17.394 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:17.399 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:34.191 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:34.194 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:39.834 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:39.836 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:55.275 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:55.277 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:30:58.534 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:30:58.535 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:31:34.192 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:31:34.198 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:32:34.192 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:32:34.193 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:33:32.778 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:33:32.780 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:33:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:33:34.187 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:33:40.133 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:33:40.135 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:33:50.548 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:33:50.549 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:33:59.858 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:33:59.861 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:34:13.787 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:34:13.788 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:34:34.195 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:34:34.196 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:34:56.400 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:34:56.402 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ ERROR 22:35:02.516 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[jsonIsNullException:46] - JSON IS NULL
+▶ DEBUG 22:35:34.191 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:35:34.192 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:36:34.192 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:36:34.196 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:37:34.190 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:37:34.193 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:38:34.197 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:38:34.198 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:39:34.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:39:34.192 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:40:34.192 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:40:34.193 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:41:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:41:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:42:34.192 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:42:34.193 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:43:34.191 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:43:34.193 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:44:34.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:44:34.195 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:45:34.191 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:45:34.192 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:46:34.192 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:46:34.194 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:47:34.190 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:47:34.191 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:48:34.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:48:34.190 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:49:34.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:49:34.192 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:50:34.189 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:50:34.193 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:51:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:51:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:52:34.198 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:52:34.200 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:53:34.190 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:53:34.193 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:54:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:54:34.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:55:34.188 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:55:34.189 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:56:34.190 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:56:34.192 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:57:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:57:34.188 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:58:34.191 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:58:34.192 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 22:59:34.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 22:59:34.192 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:00:34.192 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:00:34.193 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:01:34.190 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:01:34.192 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:02:34.188 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:02:34.189 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:02:55.165 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:02:55.166 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:03:12.609 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:03:12.610 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:03:27.597 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:03:27.598 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:03:34.189 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:03:34.190 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:04:34.189 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:04:34.190 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:05:24.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:05:24.188 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:05:34.190 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:05:34.193 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:06:34.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:06:34.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:07:24.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:07:24.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:07:34.190 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:07:34.191 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:08:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:08:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:09:24.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:09:24.186 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:09:34.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:09:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:10:34.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:10:34.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:11:24.190 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:11:24.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:11:34.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:11:34.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:12:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:12:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:13:24.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:13:24.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:13:34.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:13:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:14:34.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:14:34.189 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:15:24.187 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:15:24.188 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:15:34.189 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:15:34.190 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:16:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:16:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:17:24.188 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:17:24.189 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:17:34.189 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:17:34.190 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:18:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:18:34.188 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:19:24.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:19:24.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:19:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:19:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:20:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:20:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:21:24.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:21:24.188 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:21:34.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:21:34.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:22:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:22:34.189 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:23:24.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:23:24.190 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:23:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:23:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:24:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:24:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:25:24.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:25:24.188 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:25:34.190 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:25:34.191 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:26:34.189 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:26:34.190 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:27:24.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:27:24.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:27:34.188 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:27:34.189 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:28:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:28:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:29:24.192 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:29:24.193 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:29:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:29:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:30:34.184 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:30:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:31:24.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:31:24.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:31:34.194 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:31:34.195 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:32:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:32:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:33:24.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:33:24.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:33:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:33:34.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:34:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:34:34.186 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:35:24.187 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:35:24.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:35:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:35:34.187 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:36:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:36:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:37:24.186 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:37:24.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:37:34.189 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:37:34.190 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:38:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:38:34.189 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:39:24.191 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:39:24.192 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:39:34.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:39:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:40:34.188 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:40:34.189 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:41:24.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:41:24.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:41:34.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:41:34.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:42:34.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:42:34.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:43:24.188 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:43:24.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:43:34.187 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:43:34.188 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:44:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:44:34.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:45:24.191 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:45:24.192 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:45:34.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:45:34.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:46:34.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:46:34.189 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:47:24.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:47:24.190 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:47:34.183 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:47:34.184 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:48:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:48:34.190 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:49:24.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:49:24.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:49:34.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:49:34.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:50:34.187 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:50:34.188 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:51:24.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:51:24.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:51:34.193 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:51:34.194 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:52:34.187 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:52:34.188 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:53:24.186 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:53:24.187 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:53:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:53:34.191 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:54:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:54:34.186 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:55:24.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:55:24.189 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:55:34.184 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:55:34.185 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:56:34.185 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:56:34.186 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:57:24.187 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:57:24.188 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:57:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:57:34.185 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:58:34.183 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:58:34.184 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:59:24.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:59:24.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 23:59:34.181 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 23:59:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:00:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:00:34.182 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:01:24.180 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:01:24.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:01:34.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:01:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:02:34.178 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:02:34.179 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:03:24.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:03:24.181 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:03:34.185 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:03:34.186 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:04:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:04:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:05:24.181 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:05:24.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:05:34.181 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:05:34.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:06:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:06:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:07:24.181 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:07:24.182 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:07:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:07:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:08:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:08:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:09:24.179 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:09:24.180 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:09:34.180 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:09:34.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:10:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:10:34.181 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:11:24.182 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:11:24.190 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:11:34.179 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:11:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:12:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:12:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:13:24.182 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:13:24.183 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:13:34.178 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:13:34.179 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:14:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:14:34.182 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:15:24.179 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:15:24.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:15:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:15:34.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:15:44.736 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:15:44.737 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:03.495 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:03.496 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:15.026 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:15.028 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:21.722 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:21.723 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:23.004 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:23.005 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:24.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:24.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:29.298 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:29.300 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:31.317 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:31.319 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:34.178 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:34.180 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:16:34.454 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:16:34.455 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:17:24.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:17:24.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:17:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:17:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:18:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:18:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:19:24.183 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:19:24.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:19:34.179 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:19:34.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:20:34.180 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:20:34.181 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:21:24.185 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:21:24.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:21:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:21:34.184 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:22:34.180 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:22:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:23:24.181 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:23:24.182 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:23:34.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:23:34.183 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:24:34.182 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:24:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:25:24.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:25:24.186 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:25:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:25:34.182 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:26:34.181 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:26:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:27:24.184 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:27:24.185 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:27:34.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:27:34.181 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:28:34.180 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:28:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:28:47.395 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:28:47.396 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:28:48.233 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:28:48.234 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:29:02.219 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:29:02.220 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:29:34.180 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:29:34.181 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:30:04.716 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:30:04.717 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:30:10.889 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:30:10.890 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:30:24.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:30:24.183 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:30:34.182 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:30:34.183 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:30:56.269 [ajp-bio-8001-exec-17] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:1
+▶ DEBUG 00:30:56.271 [ajp-bio-8001-exec-17] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:1
+▶ DEBUG 00:30:56.274 [ajp-bio-8001-exec-17] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:70] - it's AvailableDbLocation : 1
+▶ ERROR 00:30:56.360 [ajp-bio-8001-exec-17] com.toast.votree.util.DbgUtil[createVotree:271] - java.lang.reflect.InvocationTargetException-->null
+org.springframework.cglib.proxy.UndeclaredThrowableException: java.lang.reflect.InvocationTargetException-->null
+	at org.springframework.cglib.proxy.Proxy$ProxyImpl$$EnhancerByCGLIB$$2e0f7057.insertVote(<generated>) ~[spring-core-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at com.toast.votree.service.VotreeServiceImpl.createVotree(VotreeServiceImpl.java:245) ~[VotreeServiceImpl.class:na]
+	at com.toast.votree.controller.api.VotreeRestController.registVotree(VotreeRestController.java:23) [VotreeRestController.class:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:969) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:871) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646) [servlet-api.jar:na]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:845) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat7-websocket.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122) [catalina.jar:7.0.54]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [catalina.jar:7.0.54]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116) [catalina.jar:7.0.54]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [catalina.jar:7.0.54]
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:193) [tomcat-coyote.jar:7.0.54]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607) [tomcat-coyote.jar:7.0.54]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314) [tomcat-coyote.jar:7.0.54]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_74]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-coyote.jar:7.0.54]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_74]
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at com.toast.votree.sharding.handler.DbShardingMapperHandler.invoke(DbShardingMapperHandler.java:24) ~[DbShardingMapperHandler.class:na]
+	... 47 common frames omitted
+Caused by: org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+### The error may involve com.toast.votree.sharding.VoteMapper.insertVote-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tbl_vote         (votree_id, topic, duplicate_yn, preview_yn, weight, created_datetime)         VALUES         (?, ?, ?, ?, ?, NOW())
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+; SQL []; Data truncation: Out of range value for column 'votree_id' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:102) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:74) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:399) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at com.sun.proxy.$Proxy7.insert(Unknown Source) ~[na:na]
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:253) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:52) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53) ~[mybatis-3.3.0.jar:3.3.0]
+	at com.sun.proxy.$Proxy54.insertVote(Unknown Source) ~[na:na]
+	... 52 common frames omitted
+Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4224) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4158) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2840) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1302) ~[mysql-connector-java-5.1.31.jar:na]
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:198) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:198) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:45) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:73) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:115) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:75) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:170) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:157) ~[mybatis-3.3.0.jar:3.3.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:386) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	... 57 common frames omitted
+▶ DEBUG 00:31:34.186 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:31:34.188 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:32:24.202 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:32:24.204 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:32:34.183 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:32:34.184 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:33:34.183 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:33:34.184 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:34:24.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:34:24.186 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:34:34.182 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:34:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:35:32.726 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:0
+▶ DEBUG 00:35:32.731 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:0
+▶ DEBUG 00:35:32.735 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:70] - it's AvailableDbLocation : 0
+▶ DEBUG 00:35:34.181 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:35:34.182 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:35:41.437 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:1
+▶ DEBUG 00:35:41.439 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:1
+▶ DEBUG 00:35:41.440 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:70] - it's AvailableDbLocation : 1
+▶ ERROR 00:35:41.451 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[createVotree:271] - java.lang.reflect.InvocationTargetException-->null
+org.springframework.cglib.proxy.UndeclaredThrowableException: java.lang.reflect.InvocationTargetException-->null
+	at org.springframework.cglib.proxy.Proxy$ProxyImpl$$EnhancerByCGLIB$$2e0f7057.insertVote(<generated>) ~[spring-core-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at com.toast.votree.service.VotreeServiceImpl.createVotree(VotreeServiceImpl.java:245) ~[VotreeServiceImpl.class:na]
+	at com.toast.votree.controller.api.VotreeRestController.registVotree(VotreeRestController.java:23) [VotreeRestController.class:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:969) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:871) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646) [servlet-api.jar:na]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:845) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat7-websocket.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122) [catalina.jar:7.0.54]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [catalina.jar:7.0.54]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102) [catalina.jar:7.0.54]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116) [catalina.jar:7.0.54]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [catalina.jar:7.0.54]
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:193) [tomcat-coyote.jar:7.0.54]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607) [tomcat-coyote.jar:7.0.54]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314) [tomcat-coyote.jar:7.0.54]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_74]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-coyote.jar:7.0.54]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_74]
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at com.toast.votree.sharding.handler.DbShardingMapperHandler.invoke(DbShardingMapperHandler.java:24) ~[DbShardingMapperHandler.class:na]
+	... 47 common frames omitted
+Caused by: org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+### The error may involve com.toast.votree.sharding.VoteMapper.insertVote-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tbl_vote         (votree_id, topic, duplicate_yn, preview_yn, weight, created_datetime)         VALUES         (?, ?, ?, ?, ?, NOW())
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+; SQL []; Data truncation: Out of range value for column 'votree_id' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:102) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81) ~[spring-jdbc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:74) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:399) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at com.sun.proxy.$Proxy7.insert(Unknown Source) ~[na:na]
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:253) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:52) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53) ~[mybatis-3.3.0.jar:3.3.0]
+	at com.sun.proxy.$Proxy54.insertVote(Unknown Source) ~[na:na]
+	... 52 common frames omitted
+Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'votree_id' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4224) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4158) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2840) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082) ~[mysql-connector-java-5.1.31.jar:na]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1302) ~[mysql-connector-java-5.1.31.jar:na]
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:198) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:198) ~[commons-dbcp2-2.1.1.jar:2.1.1]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:45) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:73) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:115) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:75) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:170) ~[mybatis-3.3.0.jar:3.3.0]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:157) ~[mybatis-3.3.0.jar:3.3.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_74]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_74]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_74]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_74]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:386) ~[mybatis-spring-1.2.3.jar:1.2.3]
+	... 57 common frames omitted
+▶ DEBUG 00:36:24.189 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:36:24.190 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:36:34.185 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:36:34.186 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:37:34.180 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:37:34.181 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:38:07.979 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:38:07.980 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:38:15.768 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:0
+▶ DEBUG 00:38:15.770 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:0
+▶ DEBUG 00:38:15.771 [ajp-bio-8001-exec-11] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:70] - it's AvailableDbLocation : 0
+▶ DEBUG 00:38:21.504 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:1
+▶ DEBUG 00:38:21.505 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:1
+▶ DEBUG 00:38:21.510 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:70] - it's AvailableDbLocation : 1
+▶ DEBUG 00:38:24.185 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:38:24.186 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:38:34.184 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:38:34.185 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:39:34.185 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:39:34.188 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:40:24.183 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:40:24.184 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:40:34.183 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:40:34.184 [http-bio-8080-exec-8] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:40:59.769 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:40:59.770 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:11.302 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:11.303 [http-bio-8080-exec-6] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:26.629 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[addUserChoice:436] - VOTREE ID : 1456674058901_beeaf08040824ad1836172d7017a87cc
+▶ DEBUG 00:41:26.629 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[addUserChoice:437] - BODY{"votreeId":"1456674058901_beeaf08040824ad1836172d7017a87cc","voteList":[{"voteId":"8","userChoice":["9"]}]}
+▶ DEBUG 00:41:26.657 [ajp-bio-8001-exec-5] com.toast.votree.util.DbgUtil[addUserChoice:444] - 14444444444444444444444444444
+▶ DEBUG 00:41:29.887 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:29.888 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:34.181 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:34.183 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:37.999 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:38.002 [http-bio-8080-exec-3] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:41.670 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:41.672 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:41:46.812 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:41:46.813 [http-bio-8080-exec-2] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:42:34.181 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:42:34.182 [http-bio-8080-exec-4] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:42:59.591 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:42:59.593 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:43:07.547 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:43:07.548 [http-bio-8080-exec-7] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null
+▶ DEBUG 00:43:24.187 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setRunningVoteProposer$1:202] - null
+▶ ERROR 00:43:24.188 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[lambda$setExpiredVoteProposer$2:213] - null

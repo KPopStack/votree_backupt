@@ -1,0 +1,75 @@
+▶ DEBUG 09:14:40.207 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:14:40.423 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:14:40.871 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:14:41.012 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:14:59.826 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:14:59.922 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:15:00.175 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:15:00.279 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:19:48.454 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:19:48.665 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:19:49.112 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:19:49.249 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:09.765 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:09.897 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:10.144 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:10.248 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:36.211 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:36.424 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:36.836 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:36.984 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:56.884 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:57.008 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:57.267 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 09:20:57.372 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ ERROR 12:06:07.191 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 12:16:46.808 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:16:47.011 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:16:47.467 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:16:47.616 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:17:07.004 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:17:07.149 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:17:07.416 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:17:07.527 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? ERROR 12:17:13.725 [ajp-bio-8001-exec-1] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 12:17:25.893 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 12:17:46.215 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[getFacebookUser:63] - state? ??? ??? ????? 
+? ERROR 12:17:46.708 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? ERROR 12:20:38.768 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+? DEBUG 12:24:08.103 [localhost-startStop-3] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:24:08.227 [localhost-startStop-3] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:24:08.477 [localhost-startStop-3] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+? DEBUG 12:24:08.568 [localhost-startStop-3] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:20.248 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:20.467 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:20.931 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:21.092 [localhost-startStop-1] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:44.186 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:44.312 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:44.572 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ DEBUG 12:24:44.665 [localhost-startStop-2] org.apache.ibatis.logging.LogFactory[setImplementation:135] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+▶ ERROR 12:26:09.842 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : java.lang.RuntimeException: ERROR: Didn't get code parameter in callback.
+▶ DEBUG 12:26:42.265 [ajp-bio-8001-exec-6] com.toast.votree.util.DbgUtil[getPaycoUser:66] - 5e0e222a-019c-4222-b4d8-726cab66aaa9
+▶ DEBUG 13:21:07.068 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[getResponseCheckDataForChart:52] - LIST FOR LINE CHART : [{data=[113, 33, 22, 44, 132, 33, 128, 124, 129, 155, 243, 220, 104, 366, 261, 157, 168], name=/}, {data=[70, 70, 84, 76, 80, 86, 88, 92, 141, 136, 85, 359, 103, 67, 79, 84], name=/detail}, {data=[55, 49, 47, 75, 63, 36, 48, 107, 98, 86, 89, 54, 52, 92, 42], name=/voting}, {data=[57, 64, 66, 90, 70, 78, 81, 102, 121, 64, 71, 63, 71, 64, 68], name=/result}, {data=[92, 94, 95, 80, 84, 76, 80, 109, 101, 77, 71, 81, 69], name=/search}, {data=[285, 617], name=/files}, {data=[97, 93, 97, 115, 96, 100, 110, 118, 94, 105, 107, 91, 93, 97], name=/profiles}]
+▶ DEBUG 13:21:11.002 [ajp-bio-8001-exec-3] com.toast.votree.util.DbgUtil[getResponseCheckDataForChart:52] - LIST FOR LINE CHART : [{data=[13], name=/}, {data=[13], name=/detail}, {data=[7], name=/voting}, {data=[7], name=/result}, {data=[7], name=/profiles}]
+▶ DEBUG 13:21:14.465 [ajp-bio-8001-exec-8] com.toast.votree.util.DbgUtil[getResponseCheckDataForChart:52] - LIST FOR LINE CHART : [{data=[6, 5], name=/}, {data=[33, 2], name=/detail}, {data=[22, 6], name=/voting}, {data=[11, 2], name=/result}]
+▶ WARN  10:57:23.521 [ajp-bio-8001-exec-4] org.springframework.web.servlet.PageNotFound[noHandlerFound:1136] - No mapping found for HTTP request with URI [/robots.txt] in DispatcherServlet with name 'appServlet'
+▶ ERROR 10:57:23.648 [http-bio-8080-exec-5] com.toast.votree.util.DbgUtil[dbIndexOutOfBoundsException:52] - NO MATCHING DATABASE
+▶ ERROR 10:57:23.654 [ajp-bio-8001-exec-4] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+▶ ERROR 10:57:23.774 [http-bio-8080-exec-9] com.toast.votree.util.DbgUtil[runTimeException:20] - RUNTIME ERROR : java.lang.IllegalArgumentException: fromIndex(12) > toIndex(2)
+▶ ERROR 10:57:23.775 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+▶ WARN  10:57:23.811 [ajp-bio-8001-exec-10] org.springframework.web.servlet.PageNotFound[noHandlerFound:1136] - No mapping found for HTTP request with URI [/index.html] in DispatcherServlet with name 'appServlet'
+▶ WARN  10:57:23.837 [ajp-bio-8001-exec-6] org.springframework.web.servlet.PageNotFound[noHandlerFound:1136] - No mapping found for HTTP request with URI [/detail] in DispatcherServlet with name 'appServlet'
+▶ ERROR 10:57:24.608 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[dbIndexOutOfBoundsException:52] - NO MATCHING DATABASE
+▶ ERROR 10:57:24.609 [ajp-bio-8001-exec-10] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+▶ ERROR 10:57:24.640 [http-bio-8080-exec-1] com.toast.votree.util.DbgUtil[dbIndexOutOfBoundsException:52] - NO MATCHING DATABASE
+▶ ERROR 10:57:24.641 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+▶ ERROR 10:57:24.651 [http-bio-8080-exec-10] com.toast.votree.util.DbgUtil[dbIndexOutOfBoundsException:52] - NO MATCHING DATABASE
+▶ ERROR 10:57:24.652 [ajp-bio-8001-exec-1] com.toast.votree.util.DbgUtil[restClientException:58] - NO RETURN FROM RESTTEMPLATE
+▶ DEBUG 11:07:11.610 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:37] - db is avail check:1
+▶ DEBUG 11:07:11.612 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[mappingDbShardingIndex:39] - db is avail:1
+▶ DEBUG 11:07:11.614 [ajp-bio-8001-exec-2] com.toast.votree.util.DbgUtil[mappingToDbByShardingKey:69] - it's AvailableDbLocation : 1
+▶ DEBUG 16:10:38.855 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[addUserChoice:435] - VOTREE ID : 1456666166650_4d4a969429bf432cb89081977f8d1e31
+▶ DEBUG 16:10:38.856 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[addUserChoice:436] - BODY{"votreeId":"1456666166650_4d4a969429bf432cb89081977f8d1e31","voteList":[{"voteId":"1","userChoice":["1"]}]}
+▶ DEBUG 16:10:38.878 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[addUserChoice:443] - 14444444444444444444444444444
+▶ ERROR 17:54:18.401 [ajp-bio-8001-exec-7] com.toast.votree.util.DbgUtil[modifyVotree:124] - Text '2016-03-04 00:00:00' could not be parsed, unparsed text found at index 16

@@ -1,0 +1,12 @@
+CATALINA_BASE=/home1/irteam/apps/tomcat
+CATALINA_HOME=/home1/irteam/apps/tomcat
+CATALINA_TMPDIR=/home1/irteam/apps/tomcat/temp
+JRE_HOME=/home1/irteam/apps/jdk
+CLASSPATH=/home1/irteam/apps/tomcat/bin/bootstrap.jar:/home1/irteam/apps/tomcat/bin/tomcat-juli.jar
+
+APACHE_DIR=/home1/irteam/apps/apache
+TOMCAT_DIR=/home1/irteam/apps/tomcat
+SCRIPT_DIR=/home1/irteam/scripts
+
+# */3 * * * * /home1/irteam/scripts/serviceAutoReaction.sh >> /home1/irteam/logs/cron
+

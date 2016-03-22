@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home1/irteam/logs/votree'
+let g:netrw_dirhist_2='/var/spool/cron'
+let g:netrw_dirhist_3='/home1/irteam/scripts'
+let g:netrw_dirhist_4='/home1/irteam/apps'
+let g:netrw_dirhist_5='/etc'
+let g:netrw_dirhist_6='/etc/rc.d/init.d'
+let g:netrw_dirhist_7='/home1/irteam/apps/apache-tomcat-7.0.54/webapps/managerAgent'
